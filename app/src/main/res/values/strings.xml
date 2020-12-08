@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Pets</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="kamus" />
+    <string name="ilmu_pengetahuan" />
+
+</resources>
